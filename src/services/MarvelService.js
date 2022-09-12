@@ -2,9 +2,9 @@ import { Component } from "react/cjs/react.production.min";
 
 
 class MarvelService extends Component {
-    _apiKey = 'apikey=23e1b7914ae3bfa726d4222aee7061f9';
+    _apiKey = 'UR API))))';
     
-    _apiBase = 'https://gateway.marvel.com:443/v1/public/';
+    _apiBase = 'UR API BASE))))';
 
     _baseOffset = 210
 
